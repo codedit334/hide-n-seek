@@ -1,0 +1,17 @@
+body {
+  font-style: arial;
+  background-color: lightgoldenrodyellow;
+  color: orange;
+  height: 100vh;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+h1 {
+  font-weight: bolder;
+}
+
+.list {
+  text-align: center;
+}
